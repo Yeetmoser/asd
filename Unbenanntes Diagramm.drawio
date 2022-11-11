@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T04:22:02.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.106" etag="zrkrA9QCWz3e1QubK7gj" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T04:31:39.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.106" etag="HxYFFnQ9UfWZNKVd1Pjj" version="20.5.3" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
     <mxGraphModel dx="5834" dy="2564" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,19 +35,19 @@
           <mxGeometry x="50" y="166.66666666666669" width="50" height="83.33333333333334" as="geometry" />
         </mxCell>
         <mxCell id="m7lqvvpAXxHi6y3gCFo6-6" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-600" y="250" width="225" height="250" as="geometry" />
+          <mxGeometry x="-600" y="275" width="225" height="225" as="geometry" />
         </mxCell>
         <mxCell id="m7lqvvpAXxHi6y3gCFo6-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#030303;container=0;" parent="m7lqvvpAXxHi6y3gCFo6-6" vertex="1">
-          <mxGeometry width="225" height="250" as="geometry" />
+          <mxGeometry width="225" height="225" as="geometry" />
         </mxCell>
         <mxCell id="m7lqvvpAXxHi6y3gCFo6-8" value="Infektions Warteraum" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=19;container=0;" parent="m7lqvvpAXxHi6y3gCFo6-6" vertex="1">
-          <mxGeometry y="53.825" width="224.62961538461533" height="137.5" as="geometry" />
+          <mxGeometry y="48.4425" width="224.62961538461533" height="123.75" as="geometry" />
         </mxCell>
         <mxCell id="m7lqvvpAXxHi6y3gCFo6-9" value="RN:1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=18;fontStyle=1;container=0;" parent="m7lqvvpAXxHi6y3gCFo6-6" vertex="1">
-          <mxGeometry width="64.125" height="65" as="geometry" />
+          <mxGeometry width="64.125" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="m7lqvvpAXxHi6y3gCFo6-10" value="20m²" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=20;fontStyle=1;container=0;" parent="m7lqvvpAXxHi6y3gCFo6-6" vertex="1">
-          <mxGeometry x="140.625" y="155" width="84.00374999999997" height="94.99999999999999" as="geometry" />
+          <mxGeometry x="140.625" y="139.5" width="84.00374999999997" height="85.49999999999999" as="geometry" />
         </mxCell>
         <mxCell id="m7lqvvpAXxHi6y3gCFo6-11" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-300" y="300" width="200" height="100" as="geometry" />
@@ -283,6 +283,21 @@
         <mxCell id="kLAfsLhZ7NUl52Y6dNVA-35" value="10m²" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=20;fontStyle=1;container=0;" parent="kLAfsLhZ7NUl52Y6dNVA-31" vertex="1">
           <mxGeometry x="187.5" y="62" width="112.005" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="Mdi7qmPaL45vFRjn11RK-22" value="" style="group" vertex="1" connectable="0" parent="kLAfsLhZ7NUl52Y6dNVA-16">
+          <mxGeometry x="-49.50999999999999" y="322" width="300" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Mdi7qmPaL45vFRjn11RK-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#030303;container=0;" vertex="1" parent="Mdi7qmPaL45vFRjn11RK-22">
+          <mxGeometry width="300" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Mdi7qmPaL45vFRjn11RK-24" value="Funktionsbettenlager" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=19;container=0;" vertex="1" parent="Mdi7qmPaL45vFRjn11RK-22">
+          <mxGeometry y="50" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Mdi7qmPaL45vFRjn11RK-25" value="RN:21" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=18;fontStyle=1;container=0;" vertex="1" parent="Mdi7qmPaL45vFRjn11RK-22">
+          <mxGeometry width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Mdi7qmPaL45vFRjn11RK-26" value="30m²" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=20;fontStyle=1;container=0;" vertex="1" parent="Mdi7qmPaL45vFRjn11RK-22">
+          <mxGeometry x="200" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="kLAfsLhZ7NUl52Y6dNVA-21" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2050" y="653" width="300" height="250" as="geometry" />
         </mxCell>
@@ -418,13 +433,13 @@
         <mxCell id="Mdi7qmPaL45vFRjn11RK-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#030303;container=0;" vertex="1" parent="Mdi7qmPaL45vFRjn11RK-16">
           <mxGeometry width="199.34" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Mdi7qmPaL45vFRjn11RK-18" value="Magazin Sangerät&lt;br&gt;Sanzug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=19;container=0;" vertex="1" parent="Mdi7qmPaL45vFRjn11RK-16">
+        <mxCell id="Mdi7qmPaL45vFRjn11RK-18" value="Depot für Arzneimittel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=19;container=0;" vertex="1" parent="Mdi7qmPaL45vFRjn11RK-16">
           <mxGeometry y="53.825" width="199.01185569230768" height="137.5" as="geometry" />
         </mxCell>
-        <mxCell id="Mdi7qmPaL45vFRjn11RK-19" value="RN:31" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=18;fontStyle=1;container=0;" vertex="1" parent="Mdi7qmPaL45vFRjn11RK-16">
-          <mxGeometry width="56.8119" height="65" as="geometry" />
+        <mxCell id="Mdi7qmPaL45vFRjn11RK-19" value="RN:25" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=18;fontStyle=1;container=0;" vertex="1" parent="Mdi7qmPaL45vFRjn11RK-16">
+          <mxGeometry width="75" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Mdi7qmPaL45vFRjn11RK-20" value="30m²" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=20;fontStyle=1;container=0;" vertex="1" parent="Mdi7qmPaL45vFRjn11RK-16">
+        <mxCell id="Mdi7qmPaL45vFRjn11RK-20" value="25m²" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=auto;strokeWidth=3;fontSize=20;fontStyle=1;container=0;" vertex="1" parent="Mdi7qmPaL45vFRjn11RK-16">
           <mxGeometry x="124.5875" y="155" width="74.42358899999999" height="95" as="geometry" />
         </mxCell>
       </root>
