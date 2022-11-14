@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T07:02:15.599Z" agent="5.0 (X11)" etag="iRUcRNuTzcpSp44iwhQe" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T07:03:10.019Z" agent="5.0 (X11)" etag="yf9r_sDC9aRflcIY-hpa" version="20.5.3" type="github">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
     <mxGraphModel dx="6863" dy="3057" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -584,7 +584,7 @@
           <mxGeometry x="-374" y="1294" width="75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="kaSYq1DVyaRBqUA8F0u4-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;fontSize=25;fillColor=#A680B8;gradientColor=none;strokeWidth=4;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="-57" width="100" height="232" as="geometry" />
+          <mxGeometry x="-100" y="-75" width="100" height="250" as="geometry" />
         </mxCell>
         <mxCell id="kaSYq1DVyaRBqUA8F0u4-66" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-374" y="510" width="75" height="75" as="geometry" />
